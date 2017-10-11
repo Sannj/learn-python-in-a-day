@@ -1,4 +1,3 @@
-
 def calBMI(h, w):
 	bmi = int(w)/(int(h)/100)**2
 	print('Your BMI is: {}'.format(round(bmi, 2)))
